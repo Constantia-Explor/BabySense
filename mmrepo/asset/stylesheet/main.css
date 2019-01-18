@@ -34,7 +34,7 @@ body {
     .h10, .h09, .h08, .h07, .h06, .h05 {
         margin: auto;
         /* margin-bottom: 1rem; */
-        font-family: "NotoSansCJKtc";
+        font-family: "Noto Sans TC", sans-serif;
         word-break: break-word;
         word-wrap: break-word;
     }
