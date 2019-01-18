@@ -1,0 +1,117 @@
+html {
+    font-size: calc(14px + ((24 - 14) / (1200 - 576) * (100vw - 576px)));
+    line-height: 1.2em;
+}
+    html.mobile {
+        font-size: calc(0.62cm + ((1.2 - 0.62) / (1200 - 576) * (100vw - 576px)));
+    }
+    @media (max-width: 575.98px) {
+        html {
+            font-size: 14px;
+        }
+        html.mobile {
+            font-size: 0.62cm;
+        }
+    }
+    @media (min-width: 1200px) {
+        html {
+            font-size: 24px;
+        }
+        html.mobile {
+            font-size: 1.2cm;
+        }
+    }
+
+body {
+    color: #070707;
+}
+    /* html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+        line-height: 100%;
+    } */
+    .hb24, .hb22, .hb20, .hb18, .hb16, .hb14, .hb12,
+    .hb10, .hb09, .hb08, .hb07, .hb06, .hb05,
+    .h24, .h22, .h20, .hl8, .h16, .h14, .h12,
+    .h10, .h09, .h08, .h07, .h06, .h05 {
+        margin: auto;
+        /* margin-bottom: 1rem; */
+        font-family: "NotoSansCJKtc";
+        word-break: break-word;
+        word-wrap: break-word;
+    }
+        .hb24, .hb22, .hb20, .hb18, .hb16, .hb14, .hb12,
+        .hb10, .hb09, .hb08, .hb07, .hb06, .hb05 {
+            font-weight: 600;
+        }
+        .hb24, .h24, .hb22, .h22, .hb20, .h20, .hb18, .hl8, .hb16, .h16 {
+            line-height: 1.2em;
+        }
+        .hb14, .h14, .hb12, .h12, .hb10, .h10 {
+            line-height: 1.4em;
+        }
+        .hb09, .hb08, .hb07, .hb06, .hb05 {
+            line-height: 2em;
+        }
+        .h09, .h08, .h07, .h06, .h05 {
+            line-height: 1.6em;
+        }
+        .hb24, .h24 {
+            font-size: 2.4rem;
+        }
+        .hb22, .h22 {
+            font-size: 2.2rem;
+        }
+        .hb20, .h20 {
+            font-size: 2rem;
+        }
+        .hb18, .hl8 {
+            font-size: 1.8rem;
+        }
+        .hb16, .h16 {
+            font-size: 1.6rem;
+        }
+        .hb14, .h14 {
+            font-size: 1.4rem;
+        }
+        .hb12, .h12 {
+            font-size: 1.2rem;
+        }
+        .hb10, .h10 {
+            font-size: 1rem;
+        }
+        .hb09, .h09 {
+            font-size: 0.9rem;
+        }
+        .hb08, .h08 {
+            font-size: 0.8rem;
+        }
+        .hb07, .h07 {
+            font-size: 0.7rem;
+        }
+        .hb06, .h06 {
+            font-size: 0.6rem;
+        }
+        .hb05, .h05 {
+            font-size: 0.5rem;
+        }
+
+.styleBtn {
+    cursor: pointer;
+    user-select: none;
+}
+    body.mobile .styleBtn {
+        cursor: initial;
+    }
+
+/***
+ * @media (max-width: 575.98px) {}
+ * @media (min-width: 576px) {}
+ * @media (min-width: 576px) and (max-width: 767.98px) {}
+ * @media (max-width: 767.98px) {}
+ * @media (min-width: 768px) {}
+ * @media (min-width: 768px) and (max-width: 991.98px) {}
+ * @media (max-width: 991.98px) {}
+ * @media (min-width: 992px) {}
+ * @media (min-width: 992px) and (max-width: 1199.98px) {}
+ * @media (max-width: 1199.98px) {}
+ * @media (min-width: 1200px) {}
+ */

@@ -1,0 +1,22 @@
+
+/* ## 思源字體 ## : https://www.google.com/get/noto/ */
+
+@font-face {
+    font-family: "NotoMono";
+    font-style: normal;
+    font-weight: 500;
+    src: url("../font/NotoMono-Regular.ttf") format("truetype");
+}
+@font-face {
+    font-family: "NotoSansCJKtc";
+    font-style: normal;
+    font-weight: 500;
+    src: url("../font/NotoSansCJKtc-Regular.otf") format("opentype");
+}
+@font-face {
+    font-family: "NotoSansMonoCJKtc";
+    font-style: normal;
+    font-weight: 500;
+    src: url("../font/NotoSansMonoCJKtc-Regular.otf") format("opentype");
+}
+
