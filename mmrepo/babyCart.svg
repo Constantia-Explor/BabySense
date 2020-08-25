@@ -1,0 +1,160 @@
+<svg xml:space="preserve" viewBox="0 0 100 100" y="0" x="0" xmlns="http://www.w3.org/2000/svg" id="圖層_1" version="1.1" style="height: 100%; width: 100%; background: rgb(255, 255, 255);" width="216px" height="216px">
+  <style>
+    @keyframes breath {
+      0% {
+        animation-timing-function: cubic-bezier(0.9647, 0.2413, -0.0705, 0.7911);
+        transform: scale(0.9099999999999999);
+      }
+      51% {
+        animation-timing-function: cubic-bezier(0.9226, 0.2631, -0.0308, 0.7628);
+        transform: scale(1.02994);
+      }
+      100% {
+        transform: scale(0.9099999999999999);
+      }
+    }
+  </style>
+  <g class="ldl-scale" style="transform-origin: 50% 50%; transform: rotate(0deg) scale(0.84, 0.84);">
+    <g class="ldl-ani">
+      <g class="ldl-layer">
+        <g class="ldl-ani">
+          <g>
+            <g class="ldl-layer">
+              <g class="ldl-ani" style="transform-origin: 50px 50px; transform: scale(0.91); animation: 1.19048s linear -0.641026s infinite normal forwards running breath;">
+                <path fill="#4d4d4d" d="M68.825 82.153H38.751a3 3 0 1 1 0-6h30.074c1.926 0 3.633-.2 5.074-.593a3 3 0 1 1 1.581 5.789c-1.955.533-4.194.804-6.655.804z" style="fill: rgb(132, 132, 132);"></path>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g class="ldl-layer">
+        <g class="ldl-ani" style="transform-origin: 50px 50px; transform: scale(0.91); animation: 1.19048s linear -0.686813s infinite normal forwards running breath;">
+          <path fill="#999" d="M27.146 49.819l-9.932-9.932a2 2 0 1 0-2.828 2.828l9.932 9.932c.39.391.902.586 1.414.586s1.024-.195 1.414-.586a2 2 0 0 0 0-2.828z" style="fill: rgb(196, 196, 196);"></path>
+        </g>
+      </g>
+      <g class="ldl-layer">
+        <g class="ldl-ani">
+          <g>
+            <g class="ldl-layer">
+              <g class="ldl-ani" style="transform-origin: 50px 50px; transform: scale(0.91); animation: 1.19048s linear -0.732601s infinite normal forwards running breath;">
+                <path fill="#29abe2" d="M80.012 27.116L56.533 48.567H90c0-8.398-3.825-15.99-9.988-21.451z" style="fill: rgb(255, 179, 179);"></path>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g class="ldl-layer">
+        <g class="ldl-ani">
+          <g>
+            <g class="ldl-layer">
+              <g class="ldl-ani" style="transform-origin: 50px 50px; transform: scale(0.91); animation: 1.19048s linear -0.778388s infinite normal forwards running breath;">
+                <path d="M80.012 27.116L56.533 48.567l23.479-21.451z" style="fill: rgb(99, 99, 99);"></path>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g class="ldl-layer">
+        <g class="ldl-ani">
+          <g>
+            <g class="ldl-layer">
+              <g class="ldl-ani" style="transform-origin: 50px 50px; transform: scale(0.91); animation: 1.19048s linear -0.824176s infinite normal forwards running breath;">
+                <path fill="#166496" d="M56.533 12.314a2.01 2.01 0 0 0-2.137-2c-8.403.506-16.706 3.303-23.686 8.39-2.035 1.483-2.193 4.265-.352 5.947l26.176 23.916V12.314z" style="fill: rgb(251, 146, 160);"></path>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g class="ldl-layer">
+        <g class="ldl-ani">
+          <g>
+            <g class="ldl-layer">
+              <g class="ldl-ani" style="transform-origin: 50px 50px; transform: scale(0.91); animation: 1.19048s linear -0.869963s infinite normal forwards running breath;">
+                <path fill="#0071bc" d="M56.533 14.345v34.222L81.71 25.565a1.788 1.788 0 0 0-.1-2.722c-6.695-5.288-15.468-8.498-25.077-8.498z" style="fill: rgb(255, 128, 143);"></path>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g class="ldl-layer">
+        <g class="ldl-ani">
+          <g>
+            <g class="ldl-layer">
+              <g class="ldl-ani" style="transform-origin: 50px 50px; transform: scale(0.91); animation: 1.19048s linear -0.915751s infinite normal forwards running breath;">
+                <path fill="#999" d="M56.598 73.878c29.163-.138 33.409-10.442 33.338-25.468l-63.58.301a3.271 3.271 0 0 0-3.248 3.463c.793 13.394 6.593 21.831 33.49 21.704z" style="fill: rgb(196, 196, 196);"></path>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g class="ldl-layer">
+        <g class="ldl-ani">
+          <g>
+            <g class="ldl-layer">
+              <g class="ldl-ani" style="transform-origin: 50px 50px; transform: scale(0.91); animation: 1.19048s linear -0.961538s infinite normal forwards running breath;">
+                <circle fill="#333" r="8.536" cy="79.035" cx="37.209" style="fill: rgb(123, 123, 123);"></circle>
+              </g>
+            </g>
+            <g class="ldl-layer">
+              <g class="ldl-ani" style="transform-origin: 50px 50px; transform: scale(0.91); animation: 1.19048s linear -1.00733s infinite normal forwards running breath;">
+                <path
+                  fill="#1a1a1a"
+                  d="M37.209 89.57c-5.81 0-10.536-4.726-10.536-10.536S31.4 68.499 37.209 68.499s10.536 4.726 10.536 10.536S43.019 89.57 37.209 89.57zm0-17.071c-3.604 0-6.536 2.932-6.536 6.536s2.932 6.536 6.536 6.536 6.536-2.932 6.536-6.536-2.932-6.536-6.536-6.536z"
+                  style="fill: rgb(156, 156, 156);"
+                ></path>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g class="ldl-layer">
+        <g class="ldl-ani">
+          <g>
+            <g class="ldl-layer">
+              <g class="ldl-ani" style="transform-origin: 50px 50px; transform: scale(0.91); animation: 1.19048s linear -1.05311s infinite normal forwards running breath;">
+                <circle fill="#333" r="8.536" cy="79.153" cx="73.457" style="fill: rgb(123, 123, 123);"></circle>
+              </g>
+            </g>
+            <g class="ldl-layer">
+              <g class="ldl-ani" style="transform-origin: 50px 50px; transform: scale(0.91); animation: 1.19048s linear -1.0989s infinite normal forwards running breath;">
+                <path
+                  fill="#1a1a1a"
+                  d="M73.457 89.689c-5.81 0-10.536-4.726-10.536-10.536s4.726-10.536 10.536-10.536 10.536 4.726 10.536 10.536-4.726 10.536-10.536 10.536zm0-17.071c-3.604 0-6.536 2.932-6.536 6.536s2.932 6.536 6.536 6.536 6.536-2.932 6.536-6.536-2.932-6.536-6.536-6.536z"
+                  style="fill: rgb(156, 156, 156);"
+                ></path>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g class="ldl-layer">
+        <g class="ldl-ani">
+          <g>
+            <g class="ldl-layer">
+              <g class="ldl-ani" style="transform-origin: 50px 50px; transform: scale(0.91); animation: 1.19048s linear -1.14469s infinite normal forwards running breath;">
+                <circle fill="#4d4d4d" r="6.165" cy="48.626" cx="56.593" style="fill: rgb(132, 132, 132);"></circle>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g class="ldl-layer">
+        <g class="ldl-ani">
+          <g>
+            <g class="ldl-layer">
+              <g class="ldl-ani" style="transform-origin: 50px 50px; transform: scale(0.91); animation: 1.19048s linear -1.19048s infinite normal forwards running breath;">
+                <circle fill="#999" r="5.216" cy="40.717" cx="15.216" style="fill: rgb(196, 196, 196);"></circle>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <metadata xmlns:d="https://loading.io/stock/">
+        <d:name>baby car</d:name>
+        <d:tags>stroller,perambulator,carriage,baby car,people</d:tags>
+        <d:license>by</d:license>
+        <d:slug>ua0x5a</d:slug>
+      </metadata>
+    </g>
+  </g>
+</svg>
